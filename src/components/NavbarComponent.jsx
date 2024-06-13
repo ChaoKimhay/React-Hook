@@ -5,7 +5,7 @@ export function NavbarComponent() {
     <Navbar style={{ backgroundColor: "#F5F5F5" }} fluid rounded>
       <Navbar.Brand href="https://flowbite-react.com">
         <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1MndL-Xp1JcnqaB0YOqTp6zDjrwYyGKsPA&s"
+          src="hhttps://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png"
           className="mr-3 h-6 sm:h-9"
           alt="Flowbite React Logo"
         />
